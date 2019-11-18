@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="12" x="64" y="96" width="649" height="449" text="Browser&#xA;http://..." measuredWidth="649" measuredHeight="449">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Accordion" id="18" x="64" y="202" width="121" height="339" text="Invitado&#xA;-Buscar >&#xA;Cerrar Sesión&#xA;Salir&#xA;" measuredWidth="121" measuredHeight="339" selection="1">
+    <items x="0" y="2" width="121" height="24" text="Invitado"/>
+    <items x="0" y="26" width="121" height="24" text="-Buscar >"/>
+    <items x="0" y="291" width="121" height="24" text="Cerrar Sesión"/>
+    <items x="0" y="315" width="121" height="24" text="Salir"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="19" x="66" y="152" width="646" height="53" measuredWidth="646" measuredHeight="53"/>
+  <widgets xsi:type="model:VLine" id="21" x="531" y="151" height="48" measuredWidth="6" measuredHeight="48"/>
+  <widgets xsi:type="model:Image" id="22" x="632" y="158" width="70" height="40" measuredWidth="70" measuredHeight="40"/>
+  <widgets xsi:type="model:Label" id="23" x="562" y="174" width="53" text="Invitado" measuredWidth="53" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="24" x="296" y="280" width="319" height="193" measuredWidth="319" measuredHeight="193"/>
+  <widgets xsi:type="model:Label" id="25" x="184" y="162" width="257" text="Repositorio digital UPTC" measuredWidth="257" measuredHeight="32">
+    <font size="20px"/>
+  </widgets>
+  <hRuler>
+    <guides position="-32"/>
+  </hRuler>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

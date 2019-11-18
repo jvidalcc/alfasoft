@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Button" id="1" x="349" y="384" text="OK" measuredWidth="37" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Window" id="2" x="72" y="116" width="625" height="448" text="Buscar" measuredWidth="625" measuredHeight="448"/>
+  <widgets xsi:type="model:Accordion" id="3" x="72" y="217" width="121" height="213" text="Buscar&#xA;-Carrera >&#xA;-Autor&#xA;-Título&#xA;- Área&#xA;-Fecha Publicación&#xA;Cerrar Sesión&#xA;Salir&#xA;" measuredWidth="121" measuredHeight="213" selection="1">
+    <items x="0" y="2" width="121" height="24" text="Buscar"/>
+    <items x="0" y="26" width="121" height="24" text="-Carrera >"/>
+    <items x="0" y="50" width="121" height="24" text="-Autor"/>
+    <items x="0" y="74" width="121" height="24" text="-Título"/>
+    <items x="0" y="98" width="121" height="24" text="- Área"/>
+    <items x="0" y="122" width="121" height="24" text="-Fecha Publicación"/>
+    <items x="0" y="165" width="121" height="24" text="Cerrar Sesión"/>
+    <items x="0" y="189" width="121" height="24" text="Salir"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VScrollbar" id="6" x="675" y="184" height="377" measuredWidth="17" measuredHeight="377"/>
+  <widgets xsi:type="model:LinkBar" id="11" x="76" y="132" text="Home,Buscar" measuredWidth="101" measuredHeight="22">
+    <font/>
+    <items x="0" y="0" width="38" height="22" text="Home"/>
+    <items x="56" y="0" width="44" height="22" text="Buscar"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="12" x="72" y="160" width="625" height="58" measuredWidth="625" measuredHeight="58"/>
+  <widgets xsi:type="model:SearchField" id="13" x="82" y="174" width="159" text="Search" measuredWidth="159" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="14" x="536" y="165" height="48" measuredWidth="6" measuredHeight="48"/>
+  <widgets xsi:type="model:Image" id="15" x="619" y="167" width="68" height="39" measuredWidth="68" measuredHeight="39"/>
+  <widgets xsi:type="model:Label" id="16" x="560" y="183" width="44" text="Vidal" measuredWidth="44" measuredHeight="22">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

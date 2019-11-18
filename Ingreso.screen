@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="3" x="64" y="96" width="649" height="449" text="Browser&#xA;http://..." measuredWidth="649" measuredHeight="449">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="10" x="175" y="256" width="353" height="129" measuredWidth="353" measuredHeight="129"/>
+  <widgets xsi:type="model:Label" id="12" x="186" y="304" width="185" text="Digite su correo electronico:" measuredWidth="185" measuredHeight="21">
+    <font size="11px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="13" x="370" y="305" width="143" measuredWidth="143" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="14" x="306" y="336" width="89" height="39" text="Aceptar" measuredWidth="89" measuredHeight="39">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="260" y="176" width="257" text="Repositorio digital UPTC" measuredWidth="257" measuredHeight="32">
+    <font size="20px"/>
+  </widgets>
+  <widgets xsi:type="model:Group" id="18" x="555" y="250" width="129" height="129" text="Información" measuredWidth="129" measuredHeight="129">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="19" x="563" y="283" width="114" text="Manual de usuario" measuredWidth="114" measuredHeight="22">
+    <font/>
+  </widgets>
+  <hRuler>
+    <guides position="43"/>
+  </hRuler>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="64" y="96" width="649" height="449" text="Browser&#xA;http://..." measuredWidth="649" measuredHeight="449">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Accordion" id="2" x="64" y="202" width="121" height="339" text="Invitado&#xA;-Buscar >&#xA;Cerrar Sesión&#xA;Salir&#xA;" measuredWidth="121" measuredHeight="339" selection="1">
+    <items x="0" y="2" width="121" height="24" text="Invitado"/>
+    <items x="0" y="26" width="121" height="24" text="-Buscar >"/>
+    <items x="0" y="291" width="121" height="24" text="Cerrar Sesión"/>
+    <items x="0" y="315" width="121" height="24" text="Salir"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="3" x="66" y="152" width="646" height="53" measuredWidth="646" measuredHeight="53"/>
+  <widgets xsi:type="model:VLine" id="4" x="531" y="151" height="48" measuredWidth="6" measuredHeight="48"/>
+  <widgets xsi:type="model:Image" id="5" x="632" y="158" width="70" height="40" measuredWidth="70" measuredHeight="40"/>
+  <widgets xsi:type="model:Label" id="6" x="562" y="174" width="53" text="Invitado" measuredWidth="53" measuredHeight="22">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="184" y="162" width="257" text="Repositorio digital UPTC" measuredWidth="257" measuredHeight="32">
+    <font size="20px"/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="8" x="216" y="250" width="473" height="33" text="Ir a:,0-9, A,B,C,D,E,F,G,H,I,J,K,L,M,N,O" measuredWidth="473" measuredHeight="33" selection="10">
+    <font size="8px"/>
+    <items x="0" y="0" width="38" height="33" text="Ir a:"/>
+    <items x="38" y="0" width="34" height="33" text="0-9"/>
+    <items x="72" y="0" width="26" height="33" text="A"/>
+    <items x="98" y="0" width="26" height="33" text="B"/>
+    <items x="124" y="0" width="27" height="33" text="C"/>
+    <items x="151" y="0" width="27" height="33" text="D"/>
+    <items x="178" y="0" width="26" height="33" text="E"/>
+    <items x="204" y="0" width="26" height="33" text="F"/>
+    <items x="230" y="0" width="27" height="33" text="G"/>
+    <items x="257" y="0" width="27" height="33" text="H"/>
+    <items x="284" y="0" width="23" height="33" text="I"/>
+    <items x="307" y="0" width="23" height="33" text="J"/>
+    <items x="330" y="0" width="26" height="33" text="K"/>
+    <items x="356" y="0" width="25" height="33" text="L"/>
+    <items x="381" y="0" width="28" height="33" text="M"/>
+    <items x="409" y="0" width="27" height="33" text="N"/>
+    <items x="436" y="0" width="37" height="33" text="O"/>
+  </widgets>
+  <widgets xsi:type="model:Table" id="9" x="336" y="344" text="Programa,Número Cargas&#xA;Sistemas Operativos,8&#xA;Sistemas Numéricos,12&#xA;&#xA;  &#xA; " measuredWidth="237" measuredHeight="124" selection="1" alternative="#eee">
+    <font underline="true"/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="10" x="216" y="282" width="473" height="33" text="P,Q,R,S,T,U,V,W,X,Y,Z" measuredWidth="473" measuredHeight="33" selection="3">
+    <font size="8px"/>
+    <items x="0" y="0" width="42" height="33" text="P"/>
+    <items x="42" y="0" width="43" height="33" text="Q"/>
+    <items x="85" y="0" width="43" height="33" text="R"/>
+    <items x="128" y="0" width="41" height="33" text="S"/>
+    <items x="169" y="0" width="41" height="33" text="T"/>
+    <items x="210" y="0" width="43" height="33" text="U"/>
+    <items x="253" y="0" width="41" height="33" text="V"/>
+    <items x="294" y="0" width="46" height="33" text="W"/>
+    <items x="340" y="0" width="41" height="33" text="X"/>
+    <items x="381" y="0" width="41" height="33" text="Y"/>
+    <items x="422" y="0" width="51" height="33" text="Z"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="11" x="343" y="211" width="206" text="Búsqueda por Área" measuredWidth="206" measuredHeight="32">
+    <font size="20px"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
